@@ -1,0 +1,8 @@
+datos\PlanetasImplDAO.class
+dominio\Planetas.class
+datos\iSailorScoutsDAO.class
+cliente\Principal.class
+dominio\SailorScouts.class
+datos\Conexion.class
+datos\SailorScoutsImplDAO.class
+datos\iPlanetasDAO.class
